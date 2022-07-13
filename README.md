@@ -4,7 +4,7 @@ Project done during *Specialized Web2 Training* at *Web3Bridge* a great gift fro
 * HTML for markup
 * CSS for styling and more
 * Javascript for page dynamics and manipulation
-* README 
+* README: Yes! the file you're reading at the moment
 ## Files
 All the following files are programme written during the building of the counter
 | Filename | Description |
