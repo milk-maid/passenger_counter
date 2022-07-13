@@ -1,4 +1,4 @@
-# specialized_web2
+# passenger counter (js)
 Project done during *Specialized Web2 Training* at *Web3Bridge* a great gift from Boss Ayodeji Awosika on *Frontend Development* .. ...building a passenger counter app
 ## Technologies
 * HTML for markup
