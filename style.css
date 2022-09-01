@@ -1,3 +1,14 @@
+
+html {
+    margin: 0 auto;
+    background-image: url();
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+}
+
 body {
     margin: 0 auto;
     width: 100%;
